@@ -6,7 +6,7 @@
 
 - Projeto desafio do evento Next Level Week
 
-[Clique aqui para acessar](https://leonardozanoni.git)
+[Clique aqui para acessar](https://leonardozanoni.github.io/Desafio-NLW/)
 
 ## Tecnologias
 
