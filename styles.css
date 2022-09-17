@@ -52,8 +52,8 @@ header img {
 }
 
 main {
-    max-width: 580px;
-    width: 90%;
+    max-width: 520px;
+    width: 100%;
     margin: 32px auto;
     display: grid;
     gap: 24px;
@@ -65,13 +65,12 @@ section {
     background: linear-gradient(90deg, #C91842 0%, #5CC2E2 100%);
     padding-top:4px;
     border-radius:10px;
-    
+
 }
 
 section div {
     background-color: #2A2634; 
-    padding: 32px;
-    padding-top: 24px;
+    padding: 24px 32px 32px;
     border-radius: 8px;
     
 }
@@ -102,12 +101,12 @@ section ul li:hover {
 }
 .movie-list img {
     border-radius: 8px;
-    width: 90px;
+    width: 100px;
 }
 
 .series-list img {
   border-radius: 8px;
-    width: 90px;
+    width: 100px;
 }
 
 /* animation */
@@ -157,3 +156,7 @@ main section:nth-child(3){
     }
 
 }
+
+     
+
+
