@@ -10,7 +10,7 @@
 
 ## Tecnologias
 
-- HTML
+- HTML5
 
 - CSS
 
